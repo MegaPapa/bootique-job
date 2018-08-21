@@ -15,6 +15,9 @@
 
 language: java
 
+services:
+  - docker
+
 jobs:
   include:
     - stage: build
