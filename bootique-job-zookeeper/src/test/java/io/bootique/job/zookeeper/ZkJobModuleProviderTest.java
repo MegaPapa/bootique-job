@@ -3,7 +3,7 @@ package io.bootique.job.zookeeper;
 import io.bootique.test.junit.BQModuleProviderChecker;
 import org.junit.Test;
 
-public class ConsulJobModuleProviderTest {
+public class ZkJobModuleProviderTest {
 	
 	@Test
 	public void testAutoLoadable() {
